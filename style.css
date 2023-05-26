@@ -1,0 +1,20 @@
+
+
+.logo{background-position: center; background-size: cover; text-align: center; font-size: 80px;}
+
+.background{
+    background-image: url(file:///C:/Users/Raffaele/AppData/Local/Temp/Rar$DRa0.031/images/banner.jpg);
+    text-align: center; background-repeat: repeat; font-size: 80px; background-position: center; background-size: cover;
+    font-family: 'Poppins', sans-serif; color: blue; text-align: center;
+}
+
+.logo{
+    text-align: center; border: 20px;
+}
+h3{color: cornflowerblue; font-family:'Poppins', sans-serif}
+.fa-phone-volume{
+    color: blue;
+}
+.fa-at {
+    color: blue;
+}
